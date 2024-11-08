@@ -1,5 +1,5 @@
 # 実行ファイル名
-NAME = ex00
+NAME = ex01
 
 # ソースファイル一覧
 SRC = main.cpp
