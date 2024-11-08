@@ -1,6 +1,10 @@
 #ifndef ARRY_HPP
 # define ARRY_HPP
 
+#include <iostream>
+#include <cstdlib>
+#include <typeinfo>
+
 template< typename T>
 class Array
 {
